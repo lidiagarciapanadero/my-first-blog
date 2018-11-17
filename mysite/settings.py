@@ -25,7 +25,7 @@ SECRET_KEY = 'z3#)cqsh@-^4sa1kt33&2+bq1)v&94tp+s!@=)nif2q461ad1i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com','lidiaura.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
 
 
 # Application definition
